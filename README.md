@@ -1,3 +1,8 @@
+
+# Deprecated Notice
+
+This package is now deprecated and has not been updated for a while. Please refer to the original Haystack repo for more up to date implementations of the same at [haystack](https://github.com/deepset-ai/haystack).
+
 # Haystack Human In Loop Tool
 
 Human in Loop tool for [haystack](https://github.com/deepset-ai/haystack) Agents.  Uses human guidance to refine queries and improve performance.
